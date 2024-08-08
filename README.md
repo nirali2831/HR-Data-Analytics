@@ -1,4 +1,4 @@
-# HR-Data-Analytics
+# HR Data Analytics
  
 ## HR Domain [Power BI | Excel]
 
